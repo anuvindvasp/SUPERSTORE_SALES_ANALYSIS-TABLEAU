@@ -54,11 +54,12 @@ The project aims to provide actionable insights to optimize and improve sales ef
 :white_small_square:PRODUCT CATEGORY PERFORMANCE:
 
    * Best-Selling Categories : Copiers, Phones, and Bookcases generate the most revenue
-   * * Underperforming Categories : Fasteners, Labels, and Envelopes contribute the least to sales
+   *  Underperforming Categories : Fasteners, Labels, and Envelopes contribute the least to sales
 
 :white_small_square:GEOGRAPHIC SALES:
-     * Top Countries by Sales : France, Germany, UK
-    *  Lower sales : Denmark, Ireland, Portugal
+
+   * Top Countries by Sales : France, Germany, UK
+   *  Lower sales : Denmark, Ireland, Portugal
 
 
 ## CONCLUSION
